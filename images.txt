@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.3-cu124
+nvidia/cuda:12.4.1-runtime-ubuntu20.04
